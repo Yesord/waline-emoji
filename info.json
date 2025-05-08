@@ -1,0 +1,7 @@
+{
+    "name": "FO Emoji",
+    "prefix": "",
+    "type": "png",
+    "icon": "alert",
+    "items": ["alert", "crazy", "crying", "depressed", "go-the-hell", "lose-dream", "never-give-up", "scared", "sleepy"]
+  }
